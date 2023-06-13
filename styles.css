@@ -1,0 +1,12 @@
+.square{
+    height: 400px;
+    width: 400px;
+}
+
+#blueDiv{
+    background-color: blue;
+}
+
+#redDiv{
+    background-color: red;
+}
